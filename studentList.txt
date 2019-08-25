@@ -1,0 +1,4 @@
+Please enter your student information: 
+
+Student Name        Class Year          Email
+Janet Doe           Sophomore           janetdoe@spelman.edu
