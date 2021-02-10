@@ -3,8 +3,6 @@
 
 [Todo] Set up your Github account
 
-*[Todo Optional]* Download, install, and setup Github Desktop and VSCode. We will be utilizing VSCodespaces online so you do not have to download VSCode. 
-
 ## Complete the following:
 1. Create a branch for Lab #0
 2. In the new branch you've created, open the file "studentList.txt" and add your name to the list
